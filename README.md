@@ -54,5 +54,8 @@
 
 ### [Soft Skills](https://github.com/marcoshsq/Courses_Certificates/tree/main/Soft%20Skills%20%26%20Personal%20Development)
 
+  + [Creative Thinking](https://github.com/marcoshsq/Courses_Certificates/tree/main/Soft%20Skills%20%26%20Personal%20Development/Creative%20Thinking)
+  + [Learning How to Learn](https://github.com/marcoshsq/Courses_Certificates/tree/main/Soft%20Skills%20%26%20Personal%20Development/Learning%20How%20to%20Learn)
+
 ---
 
