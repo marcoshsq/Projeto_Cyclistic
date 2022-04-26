@@ -17,11 +17,11 @@
 
 <h3>Content:</h3>
 
-- [Analytics - BI]()
-- [Computer Science]()
-- [Data Science]()
-- [Mathematics]()
-- [Soft Skills]()
+- [Analytics - BI](https://github.com/marcoshsq/Courses_Certificates#analytics---bi)
+- [Computer Science](https://github.com/marcoshsq/Courses_Certificates#computer-science)
+- [Data Science](https://github.com/marcoshsq/Courses_Certificates#data-science)
+- [Mathematics](https://github.com/marcoshsq/Courses_Certificates#mathematics)
+- [Soft Skills](https://github.com/marcoshsq/Courses_Certificates#soft-skills)
 
 ---
 
