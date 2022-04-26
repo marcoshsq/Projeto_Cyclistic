@@ -15,28 +15,52 @@
 
 ---
 
-This repository contains the files of certificates obtained from IT-related courses or other relevant courses I have taken.
+<h3>Content:</h3>
+
+- [Analytics - BI]()
+- [Computer Science]()
+- [Data Science]()
+- [Mathematics]()
+- [Soft Skills]()
 
 ---
+
+<h3>Analytics - BI:</h3>
 
 - [Analytics - BI](https://github.com/marcoshsq/Course_Certificates/tree/main/Analytics%20-%20BI)
   
   + [Excel Skills for Business - Specialization](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics%20-%20BI/Excel%20skills%20for%20business%20-%20Specialization)
   + [FIAP](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics%20-%20BI/FIAP)
 
+##
+
+<h3>Computer Science:</h3>
+
 - [Computer Science](https://github.com/marcoshsq/Course_Certificates/tree/main/Computer%20Science)
 
   + [Data Structures & Algorithms](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Data%20Structures%20%26%20Algorithms)
   + [Programming for Everybody](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Programming%20for%20Everybody)
+
+##
+
+<h3>Data Scienc:</h3>
 
 - [Data Science](https://github.com/marcoshsq/Course_Certificates/tree/main/Data%20Science)
 
   + [IBM Data Science Professional Certificate](https://github.com/marcoshsq/Courses_Certificates/tree/main/Data%20Science/IBM%20Data%20Science%20(Professional%20Certificate))
   + [Kaggle](https://github.com/marcoshsq/Courses_Certificates/tree/main/Data%20Science/Kaggle)
 
+##
+
+<h3>Mathematics:</h3>
+
 - [Mathematics](https://github.com/marcoshsq/Course_Certificates/tree/main/Mathematics)
 
   + [Introduction to Mathematical Thinking](https://github.com/marcoshsq/Courses_Certificates/tree/main/Mathematics/Intro%20to%20Mathematical%20Thinking)
+
+##
+
+<h3>Soft Skills:</h3>
 
 - [Soft Skills](https://github.com/marcoshsq/Courses_Certificates/tree/main/Soft%20Skills%20%26%20Personal%20Development)
 
