@@ -1,2 +1,5 @@
-# Repository_of_Course_Certificates
-Repository with the certificates obtained from IT-related or other relevant courses I've taken.
+<h1>List of Courses Certificates</h1>
+
+This repository contains the files of certificates obtained from IT-related courses or other relevant courses I have taken.
+
+---
