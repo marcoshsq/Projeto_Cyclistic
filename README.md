@@ -12,7 +12,7 @@ This repository contains the files of certificates obtained from IT-related cour
 
 - [Mathematics](https://github.com/marcoshsq/Course_Certificates/tree/main/Mathematics)
 
-- [Soft Skills](https://github.com/marcoshsq/Course_Certificates/tree/main/Soft%20Skills)
+- [Soft Skills](https://github.com/marcoshsq/Courses_Certificates/tree/main/Soft%20Skills%20%26%20Personal%20Development)
 
 ---
 
