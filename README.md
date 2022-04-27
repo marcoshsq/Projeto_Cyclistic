@@ -35,6 +35,7 @@
 ### [Computer Science](https://github.com/marcoshsq/Course_Certificates/tree/main/Computer%20Science)
 
   + [Data Structures & Algorithms](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Data%20Structures%20%26%20Algorithms)
+  + [Google IT Automation with Python](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Google%20IT%20Automation%20with%20Python)
   + [Programming for Everybody](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Programming%20for%20Everybody)
 
 ##
