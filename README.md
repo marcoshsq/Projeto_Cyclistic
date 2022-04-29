@@ -27,9 +27,9 @@
 
 ### [Analytics - BI](https://github.com/marcoshsq/Course_Certificates/tree/main/Analytics%20-%20BI)
   
-  + [Excel Skills for Business - Specialization](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics%20-%20BI/Excel%20skills%20for%20business%20-%20Specialization) - [Course](https://pt.coursera.org/specializations/excel)
+  + [Excel Skills for Business - Specialization](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics%20-%20BI/Excel%20skills%20for%20business%20-%20Specialization) - Link to the [Course](https://pt.coursera.org/specializations/excel)
   
-  + [FIAP](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics%20-%20BI/FIAP) - [Course](https://on.fiap.com.br/index.php)
+  + [FIAP](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics%20-%20BI/FIAP) - Link to the [Course](https://on.fiap.com.br/index.php)
 
 ##
 
@@ -39,29 +39,29 @@
 
   + [Google IT Automation with Python](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Google%20IT%20Automation%20with%20Python) - [Course](https://pt.coursera.org/professional-certificates/google-it-automation)
   
-  + [Programming for Everybody](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Programming%20for%20Everybody) - [Course](https://pt.coursera.org/specializations/python)
+  + [Programming for Everybody](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Programming%20for%20Everybody) - Link to the [Course](https://pt.coursera.org/specializations/python)
 
 ##
 
 ### [Data Science](https://github.com/marcoshsq/Course_Certificates/tree/main/Data%20Science)
 
-  + [IBM Data Science Professional Certificate](https://github.com/marcoshsq/Courses_Certificates/tree/main/Data%20Science/IBM%20Data%20Science%20(Professional%20Certificate)) - [Course](https://www.coursera.org/professional-certificates/ibm-data-science)
+  + [IBM Data Science Professional Certificate](https://github.com/marcoshsq/Courses_Certificates/tree/main/Data%20Science/IBM%20Data%20Science%20(Professional%20Certificate)) - Link to the [Course](https://www.coursera.org/professional-certificates/ibm-data-science)
 
-  + [Kaggle](https://github.com/marcoshsq/Courses_Certificates/tree/main/Data%20Science/Kaggle) - [Course](https://www.kaggle.com/learn)
+  + [Kaggle](https://github.com/marcoshsq/Courses_Certificates/tree/main/Data%20Science/Kaggle) - Link to the [Course](https://www.kaggle.com/learn)
 
 ##
 
 ### [Mathematics](https://github.com/marcoshsq/Course_Certificates/tree/main/Mathematics)
 
-  + [Introduction to Mathematical Thinking](https://github.com/marcoshsq/Courses_Certificates/tree/main/Mathematics/Intro%20to%20Mathematical%20Thinking) - [Course](https://pt.coursera.org/learn/mathematical-thinking)
+  + [Introduction to Mathematical Thinking](https://github.com/marcoshsq/Courses_Certificates/tree/main/Mathematics/Intro%20to%20Mathematical%20Thinking) - Link to the [Course](https://pt.coursera.org/learn/mathematical-thinking)
 
 ##
 
 ### [Soft Skills](https://github.com/marcoshsq/Courses_Certificates/tree/main/Soft%20Skills%20%26%20Personal%20Development)
 
-  + [Creative Thinking](https://github.com/marcoshsq/Courses_Certificates/tree/main/Soft%20Skills%20%26%20Personal%20Development/Creative%20Thinking) - [Course](https://pt.coursera.org/learn/creative-thinking-techniques-and-tools-for-success)
+  + [Creative Thinking](https://github.com/marcoshsq/Courses_Certificates/tree/main/Soft%20Skills%20%26%20Personal%20Development/Creative%20Thinking) - Link to the [Course](https://pt.coursera.org/learn/creative-thinking-techniques-and-tools-for-success)
 
-  + [Learning How to Learn](https://github.com/marcoshsq/Courses_Certificates/tree/main/Soft%20Skills%20%26%20Personal%20Development/Learning%20How%20to%20Learn) - [Course](https://pt.coursera.org/learn/learning-how-to-learn)
+  + [Learning How to Learn](https://github.com/marcoshsq/Courses_Certificates/tree/main/Soft%20Skills%20%26%20Personal%20Development/Learning%20How%20to%20Learn) - Link to the [Course](https://pt.coursera.org/learn/learning-how-to-learn)
 
 ---
 
