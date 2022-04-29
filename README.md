@@ -26,6 +26,8 @@
 ---
 
 ### [Analytics - BI](https://github.com/marcoshsq/Course_Certificates/tree/main/Analytics%20-%20BI)
+
+  + [Google Data Analytics - Professional Certificate](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics%20-%20BI/Google%20Data%20Analytics%20-%20Professional%20Certificate)
   
   + [Excel Skills for Business - Specialization](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics%20-%20BI/Excel%20skills%20for%20business%20-%20Specialization) 
  
