@@ -25,7 +25,7 @@
 
 ---
 
-### [Analytics - BI](https://github.com/marcoshsq/Course_Certificates/tree/main/Analytics%20-%20BI)
+### Analytics - BI
 
   + [Google Data Analytics - Professional Certificate](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics%20-%20BI/Google%20Data%20Analytics%20-%20Professional%20Certificate)
   
@@ -37,7 +37,7 @@
 
 ##
 
-### [Computer Science](https://github.com/marcoshsq/Course_Certificates/tree/main/Computer%20Science)
+### Computer Science
 
   + [Data Structures & Algorithms](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Data%20Structures%20%26%20Algorithms)
 
@@ -49,7 +49,7 @@
 
 ##
 
-### [Data Science](https://github.com/marcoshsq/Course_Certificates/tree/main/Data%20Science)
+### Data Science
 
   + [IBM Data Science Professional Certificate](https://github.com/marcoshsq/Courses_Certificates/tree/main/Data%20Science/IBM%20Data%20Science%20(Professional%20Certificate)) 
 
@@ -57,13 +57,13 @@
 
 ##
 
-### [Mathematics](https://github.com/marcoshsq/Course_Certificates/tree/main/Mathematics)
+### Mathematics
 
   + [Introduction to Mathematical Thinking](https://github.com/marcoshsq/Courses_Certificates/tree/main/Mathematics/Intro%20to%20Mathematical%20Thinking) 
 
 ##
 
-### [Soft Skills](https://github.com/marcoshsq/Courses_Certificates/tree/main/Soft%20Skills%20%26%20Personal%20Development)
+### Soft Skills
 
   + [Creative Thinking](https://github.com/marcoshsq/Courses_Certificates/tree/main/Soft%20Skills%20%26%20Personal%20Development/Creative%20Thinking) 
 
