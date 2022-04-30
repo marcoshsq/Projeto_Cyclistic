@@ -31,6 +31,7 @@
   
   + [Excel Skills for Business - Specialization](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics%20-%20BI/Excel%20skills%20for%20business%20-%20Specialization) 
  
+  * [Creating Business Value with Data and Looker](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics%20-%20BI/Creating%20Business%20Value%20with%20Data%20and%20Looker)
   
   + [FIAP](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics%20-%20BI/FIAP) 
 
@@ -43,6 +44,8 @@
   + [Google IT Automation with Python](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Google%20IT%20Automation%20with%20Python)
   
   + [Programming for Everybody](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Programming%20for%20Everybody)
+  
+  + [Oracle Next Education](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Oracle%20Next%20Education) 
 
 ##
 
