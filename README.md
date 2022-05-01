@@ -17,7 +17,7 @@
 
 <h3>Content:</h3>
 
-- [Analytics - BI](https://github.com/marcoshsq/Courses_Certificates#analytics---bi)
+- [Data Analytics](https://github.com/marcoshsq/Courses_Certificates#data-analytics)
 - [Computer Science](https://github.com/marcoshsq/Courses_Certificates#computer-science)
 - [Data Science](https://github.com/marcoshsq/Courses_Certificates#data-science)
 - [Mathematics](https://github.com/marcoshsq/Courses_Certificates#mathematics)
@@ -25,7 +25,7 @@
 
 ---
 
-### Analytics - BI
+### Data Analytics
 
   + [Google Data Analytics - Professional Certificate](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics%20-%20BI/Google%20Data%20Analytics%20-%20Professional%20Certificate)
   
