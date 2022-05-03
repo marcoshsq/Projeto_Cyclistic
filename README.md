@@ -27,47 +27,47 @@
 
 ### Data Analytics
 
-  + [Google Data Analytics - Professional Certificate](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics%20-%20BI/Google%20Data%20Analytics%20-%20Professional%20Certificate)
+* [Creating Business Value with Data and Looker](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics%20-%20BI/Creating%20Business%20Value%20with%20Data%20and%20Looker)
   
-  + [Excel Skills for Business - Specialization](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics%20-%20BI/Excel%20skills%20for%20business%20-%20Specialization) 
- 
-  * [Creating Business Value with Data and Looker](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics%20-%20BI/Creating%20Business%20Value%20with%20Data%20and%20Looker)
-  
-  + [FIAP](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics%20-%20BI/FIAP) 
++ [Excel Skills for Business - Specialization](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics%20-%20BI/Excel%20skills%20for%20business%20-%20Specialization) 
+
++ [FIAP](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics%20-%20BI/FIAP) 
+
++ [Google Data Analytics - Professional Certificate](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics%20-%20BI/Google%20Data%20Analytics%20-%20Professional%20Certificate)
 
 ##
 
 ### Computer Science
 
-  + [Data Structures & Algorithms](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Data%20Structures%20%26%20Algorithms)
++ [Data Structures & Algorithms](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Data%20Structures%20%26%20Algorithms)
 
-  + [Google IT Automation with Python](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Google%20IT%20Automation%20with%20Python)
-  
-  + [Programming for Everybody](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Programming%20for%20Everybody)
-  
-  + [Oracle Next Education](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Oracle%20Next%20Education) 
++ [Google IT Automation with Python](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Google%20IT%20Automation%20with%20Python)
+
++ [Oracle Next Education](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Oracle%20Next%20Education) 
+
++ [Programming for Everybody](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Programming%20for%20Everybody)
 
 ##
 
 ### Data Science
 
-  + [IBM Data Science Professional Certificate](https://github.com/marcoshsq/Courses_Certificates/tree/main/Data%20Science/IBM%20Data%20Science%20(Professional%20Certificate)) 
++ [IBM Data Science Professional Certificate](https://github.com/marcoshsq/Courses_Certificates/tree/main/Data%20Science/IBM%20Data%20Science%20(Professional%20Certificate)) 
 
-  + [Kaggle](https://github.com/marcoshsq/Courses_Certificates/tree/main/Data%20Science/Kaggle) 
++ [Kaggle](https://github.com/marcoshsq/Courses_Certificates/tree/main/Data%20Science/Kaggle) 
 
 ##
 
 ### Mathematics
 
-  + [Introduction to Mathematical Thinking](https://github.com/marcoshsq/Courses_Certificates/tree/main/Mathematics/Intro%20to%20Mathematical%20Thinking) 
++ [Introduction to Mathematical Thinking](https://github.com/marcoshsq/Courses_Certificates/tree/main/Mathematics/Intro%20to%20Mathematical%20Thinking) 
 
 ##
 
 ### Soft Skills
 
-  + [Creative Thinking](https://github.com/marcoshsq/Courses_Certificates/tree/main/Soft%20Skills%20%26%20Personal%20Development/Creative%20Thinking) 
++ [Creative Thinking](https://github.com/marcoshsq/Courses_Certificates/tree/main/Soft%20Skills%20%26%20Personal%20Development/Creative%20Thinking) 
 
-  + [Learning How to Learn](https://github.com/marcoshsq/Courses_Certificates/tree/main/Soft%20Skills%20%26%20Personal%20Development/Learning%20How%20to%20Learn)
++ [Learning How to Learn](https://github.com/marcoshsq/Courses_Certificates/tree/main/Soft%20Skills%20%26%20Personal%20Development/Learning%20How%20to%20Learn)
 
 ---
 
