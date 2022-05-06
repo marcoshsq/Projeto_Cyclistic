@@ -27,13 +27,13 @@
 
 ### Data Analytics
 
-* [Creating Business Value with Data and Looker](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics%20-%20BI/Creating%20Business%20Value%20with%20Data%20and%20Looker)
+* [Creating Business Value with Data and Looker](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics/Creating%20Business%20Value%20with%20Data%20and%20Looker)
   
-+ [Excel Skills for Business - Specialization](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics%20-%20BI/Excel%20skills%20for%20business%20-%20Specialization) 
++ [Excel Skills for Business - Specialization](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics/Excel%20skills%20for%20business%20-%20Specialization) 
 
-+ [FIAP](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics%20-%20BI/FIAP) 
++ [FIAP](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics/FIAP) 
 
-+ [Google Data Analytics - Professional Certificate](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics%20-%20BI/Google%20Data%20Analytics%20-%20Professional%20Certificate)
++ [Google Data Analytics - Professional Certificate](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics/Google%20Data%20Analytics%20-%20Professional%20Certificate)
 
 ##
 
