@@ -51,6 +51,8 @@
 
 ### Data Science
 
++ [Data Science Specialization by Johns Hopkins University](https://github.com/marcoshsq/Courses_Certificates/tree/main/Data%20Science/Data%20Science%20Specialization%20by%20Johns%20Hopkins%20University)
+
 + [IBM Data Science Professional Certificate](https://github.com/marcoshsq/Courses_Certificates/tree/main/Data%20Science/IBM%20Data%20Science%20(Professional%20Certificate)) 
 
 + [Kaggle](https://github.com/marcoshsq/Courses_Certificates/tree/main/Data%20Science/Kaggle) 
