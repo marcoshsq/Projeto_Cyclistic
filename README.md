@@ -43,8 +43,6 @@
 
 + [Google IT Automation with Python](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Google%20IT%20Automation%20with%20Python)
 
-+ [Oracle Next Education](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Oracle%20Next%20Education) 
-
 + [Programming for Everybody](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Programming%20for%20Everybody)
 
 ##
