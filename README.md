@@ -65,9 +65,13 @@
 
 ### Soft Skills
 
-+ [Creative Thinking](https://github.com/marcoshsq/Courses_Certificates/tree/main/Soft%20Skills%20%26%20Personal%20Development/Creative%20Thinking) 
++ [Creative Thinking](https://github.com/marcoshsq/Courses_Certificates/tree/main/Soft%20Skills%20%26%20Personal%20Development/Creative%20Thinking)
+
++  [Emotional Intelligence](https://github.com/marcoshsq/Courses_Certificates/tree/main/Soft%20Skills%20%26%20Personal%20Development/Emotional%20intelligence)
 
 + [Learning How to Learn](https://github.com/marcoshsq/Courses_Certificates/tree/main/Soft%20Skills%20%26%20Personal%20Development/Learning%20How%20to%20Learn)
+
++ [Productivity and Time Management](https://github.com/marcoshsq/Courses_Certificates/tree/main/Soft%20Skills%20%26%20Personal%20Development/Productivity%20and%20Time%20Management)
 
 ---
 
