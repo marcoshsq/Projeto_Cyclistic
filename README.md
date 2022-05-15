@@ -27,7 +27,7 @@
 
 ### Data Analytics
 
-* [Creating Business Value with Data and Looker](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics/Creating%20Business%20Value%20with%20Data%20and%20Looker)
+* [Creating Business Value with Data and Looker - Specialization](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics/Creating%20Business%20Value%20with%20Data%20and%20Looker)
   
 + [Excel Skills for Business - Specialization](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics/Excel%20skills%20for%20business%20-%20Specialization) 
 
@@ -39,11 +39,11 @@
 
 ### Computer Science
 
-+ [Data Structures & Algorithms](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Data%20Structures%20%26%20Algorithms)
++ [Data Structures & Algorithms - Specialization](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Data%20Structures%20%26%20Algorithms)
 
-+ [Google IT Automation with Python](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Google%20IT%20Automation%20with%20Python)
++ [Google IT Automation with Python - Professional Certificate](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Google%20IT%20Automation%20with%20Python)
 
-+ [Programming for Everybody](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Programming%20for%20Everybody)
++ [Programming for Everybody - Specialization](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Programming%20for%20Everybody)
 
 ##
 
