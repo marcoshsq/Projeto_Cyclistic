@@ -73,6 +73,8 @@
 
 + [Productivity and Time Management](https://github.com/marcoshsq/Courses_Certificates/tree/main/Soft%20Skills%20%26%20Personal%20Development/Productivity%20and%20Time%20Management)
 
++ [The Science of Well-Being](https://github.com/marcoshsq/Courses_Certificates/tree/main/Soft%20Skills%20%26%20Personal%20Development/The%20Science%20of%20Well-Being)
+
 ---
 
 <div align="right">
