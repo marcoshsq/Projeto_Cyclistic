@@ -43,7 +43,7 @@
 
 + [Google IT Automation with Python - Professional Certificate](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Google%20IT%20Automation%20with%20Python)
 
-+ [Programming for Everybody - Specialization](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Programming%20for%20Everybody)
++ [Python for Everybody - Specialization](https://github.com/marcoshsq/Courses_Certificates/tree/main/Computer%20Science/Programming%20for%20Everybody)
 
 ##
 
