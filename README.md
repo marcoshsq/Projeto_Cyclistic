@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/marcoshsq/Marcos_Henrique_Portfolio">
-    <img src="https://www.freeiconspng.com/uploads/market-research-icon-16.png" alt="Developer Roadmap" width="120" height="120">
+    <img src="https://github.com/marcoshsq/Courses_Certificates/blob/main/icon.png" alt="Developer Roadmap" width="120" height="120">
   </a>
 </p>
   <h2 align="center">List of Courses Certificates</h2>
