@@ -33,6 +33,8 @@
 
 + [FIAP](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics/FIAP) 
 
++ [Financial Technology (Fintech) Innovations - Specialization](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics/Financial%20Technology%20(Fintech)%20Innovations) 
+
 + [Google Data Analytics - Professional Certificate](https://github.com/marcoshsq/Courses_Certificates/tree/main/Analytics/Google%20Data%20Analytics%20-%20Professional%20Certificate)
 
 ##
