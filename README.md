@@ -27,6 +27,6 @@
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum)
+[Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-undergraduate-curriculum)
 	
 </div>
