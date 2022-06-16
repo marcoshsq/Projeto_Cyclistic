@@ -65,6 +65,7 @@ Courses | Repository if any | Certificate
 [Programming Languages: Part C](https://www.coursera.org/learn/programming-languages-part-c) | --- | ---
 [Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture) | --- | ---
 [The Unix Workbench](https://www.coursera.org/learn/unix) | --- | ---
+[Software Testing and Automation](https://www.coursera.org/specializations/software-testing-automation) | --- | ---
 
 <div align="right">
 	
