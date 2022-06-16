@@ -16,20 +16,19 @@
 
 ## Content:
 
-- [About]()
-- [Courses]()
-- [Introduction]()
-- [Programming I]()
-- [Programming II]()
-- [Theory]()
-- [Systems]()
-- [Security]()
-- [Ethics]()
-- [Applications]()
-- [Extras]()
-- [Important Notes]()
-- [References]()
-- []()
+- [About](https://github.com/marcoshsq/ComputerScienceCurriculum#about)
+- [Courses](https://github.com/marcoshsq/ComputerScienceCurriculum#courses)
+	- [Introduction](https://github.com/marcoshsq/ComputerScienceCurriculum#introduction)
+	- [Programming I](https://github.com/marcoshsq/ComputerScienceCurriculum#programming-i)
+	- [Programming II](https://github.com/marcoshsq/ComputerScienceCurriculum#programming-ii)
+	- [Theory](https://github.com/marcoshsq/ComputerScienceCurriculum#theory)
+	- [Systems](https://github.com/marcoshsq/ComputerScienceCurriculum#systems)
+	- [Security](https://github.com/marcoshsq/ComputerScienceCurriculum#security)
+	- [Ethics](https://github.com/marcoshsq/ComputerScienceCurriculum#ethics)
+	- [Applications](https://github.com/marcoshsq/ComputerScienceCurriculum#applications)
+	- [Extras](https://github.com/marcoshsq/ComputerScienceCurriculum#extras)
+- [Important Notes](https://github.com/marcoshsq/ComputerScienceCurriculum#important-notes)
+- [References](https://github.com/marcoshsq/ComputerScienceCurriculum#references)
 
 ## About: 
 
@@ -49,6 +48,14 @@ Courses | Repository if any | Certificate
 [CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2022/) | --- | ---
 [Introduction to Computer Science and Programming](https://www.coursera.org/specializations/introduction-computer-science-programming) | --- | ---
 
+##
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-undergraduate-curriculum)
+	
+</div>
+
 ### Programming I:
 
 Courses | Repository if any | Certificate
@@ -61,6 +68,14 @@ Courses | Repository if any | Certificate
 [Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture) | --- | ---
 [The Unix Workbench](https://www.coursera.org/learn/unix) | --- | ---
 
+##
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-undergraduate-curriculum)
+	
+</div>
+
 ### Programming II:
 
 Courses | Repository if any | Certificate
@@ -69,6 +84,14 @@ Courses | Repository if any | Certificate
 [HTML, CSS, e Javascript](https://www.coursera.org/learn/html-css-javascript-for-web-developers) | --- | ---
 [Java OOP](https://www.coursera.org/specializations/object-oriented-programming) | --- | ---
 [Scala](https://www.coursera.org/specializations/scala) | --- | ---
+
+##
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-undergraduate-curriculum)
+	
+</div>
 
 ### Theory:
 
@@ -81,6 +104,14 @@ Courses | Repository if any | Certificate
 [Algorithms](https://www.coursera.org/specializations/algorithms) | --- | ---
 [Data Structures & Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) | --- | ---
 
+##
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-undergraduate-curriculum)
+	
+</div>
+
 ### Systems:
 
 Courses | Repository if any | Certificate
@@ -90,11 +121,27 @@ Courses | Repository if any | Certificate
 [Introduction to Operating Systems](https://www.coursera.org/specializations/codio-introduction-operating-systems) | --- | ---
 [Computer Architecture](https://www.coursera.org/learn/comparch) | --- | ---
 
+##
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-undergraduate-curriculum)
+	
+</div>
+
 ### Security:
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--: 
 [Cybersecurity](https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst) | --- | ---
+
+##
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-undergraduate-curriculum)
+	
+</div>
 
 ### Ethics:
 
@@ -104,6 +151,13 @@ Courses | Repository if any | Certificate
 [Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy) | --- | ---
 [Secure Coding Practices](https://www.coursera.org/specializations/secure-coding-practices) | --- | ---
 [Intellectual Property Rights](https://www.coursera.org/specializations/introduction-intellectual-property) | --- | ---
+##
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-undergraduate-curriculum)
+	
+</div>
 
 ### Applications:
 
@@ -114,6 +168,14 @@ Courses | Repository if any | Certificate
 [Data Engineering](https://www.coursera.org/professional-certificates/ibm-data-engineer) | --- | ---
 [Clou Computing](https://www.coursera.org/specializations/cloud-computing) | --- | ---
 [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction) | --- | ---
+
+##
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-undergraduate-curriculum)
+	
+</div>
 
 ### Extras:
 
@@ -126,13 +188,21 @@ Courses | Repository if any | Certificate
 [Software Testing](https://www.udacity.com/course/software-testing--cs258) | --- | ---
 [Project Management](https://www.coursera.org/professional-certificates/google-project-management) | --- | ---
 
+##
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-undergraduate-curriculum)
+	
+</div>
+
 ---
 
-## Important Notes:
+### Important Notes:
 
 In addition to this computer science roadmap, I also have a curriculum for Data Science, which is my main focus.
 
-## References.
+### References.
 
 To build this curriculum, I used these sources:
 
