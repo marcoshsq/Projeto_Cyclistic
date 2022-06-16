@@ -60,6 +60,7 @@ Courses | Repository if any | Certificate
 [Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | --- | ---
 [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | --- | ---
 [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | --- | ---
+[Algorithms](https://www.coursera.org/specializations/algorithms) | --- | ---
 [Data Structures & Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) | --- | ---
 
 ### Systems:
@@ -70,6 +71,17 @@ Courses | Repository if any | Certificate
 [Build a Modern Computer Part 02](https://www.coursera.org/learn/nand2tetris2) | --- | ---
 [Introduction to Operating Systems](https://www.coursera.org/specializations/codio-introduction-operating-systems) | --- | ---
 [Computer Architecture](https://www.coursera.org/learn/comparch)
+
+### Security:
+
+Courses | Repository if any | Certificate
+:-- | :--: | :--: 
+
+### Databases:
+
+Courses | Repository if any | Certificate
+:-- | :--: | :--: 
+
 
 ### Applications
 
