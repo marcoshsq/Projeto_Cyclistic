@@ -76,6 +76,7 @@ Courses | Repository if any | Certificate
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--: 
+[Cybersecurity](https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst)
 
 ### Ethics:
 
@@ -90,16 +91,18 @@ Courses | Repository if any | Certificate
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--: 
-[Open Source Software Development, Linux and Git](https://www.coursera.org/specializations/oss-development-linux-git) | --- | ---
-[Web Design for Everybody](https://www.coursera.org/specializations/web-design) | --- | ---
 [Web Applications for Everybody](https://www.coursera.org/specializations/web-applications) | --- | ---
 [IT Support](https://www.coursera.org/professional-certificates/google-it-support) | --- | ---
+[Data Engineering](https://www.coursera.org/professional-certificates/ibm-data-engineer) | --- | ---
+[Clou Computing](https://www.coursera.org/specializations/cloud-computing) | --- | ---
 
 ### Extras:
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--: 
 [Internet History, Technology and Security](https://www.coursera.org/learn/internet-history) | --- | ---
+[Open Source Software Development, Linux and Git](https://www.coursera.org/specializations/oss-development-linux-git) | --- | ---
+[Web Design for Everybody](https://www.coursera.org/specializations/web-design) | --- | ---
 
 ---
 
