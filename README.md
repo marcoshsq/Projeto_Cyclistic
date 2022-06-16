@@ -27,19 +27,27 @@ For this script I'm following the same curriculum as [OSSU](https://github.com/o
 ### Introduction:
 
 Courses | Repository if any | Certificate
-:--: | :--: | :--: 
+:-- | :--: | :--: 
 [Python for Everybody](https://www.coursera.org/specializations/python) | [Repository](https://github.com/marcoshsq/Python4Everybody) | [Certificate](https://www.coursera.org/account/accomplishments/specialization/2T9578E32DVB) |
 [CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2022/) | --- | ---
 
-### Programming:
+### Programming I:
 
 Courses | Repository if any | Certificate
-:--: | :--: | :--: 
+:-- | :--: | :--: 
 [Java Programming and Software Engineering Fundamentals](https://www.coursera.org/specializations/java-programming) | --- | ---
 [Programming Languages: Part A](https://www.coursera.org/learn/programming-languages) | --- | ---
 [Programming Languages: Part B](https://www.coursera.org/learn/programming-languages-part-b) | --- | ---
 [Programming Languages: Part C](https://www.coursera.org/learn/programming-languages-part-c) | --- | ---
 [The Unix Workbench](https://www.coursera.org/learn/unix) | --- | ---
+
+### Systems:
+
+Courses | Repository if any | Certificate
+:-- | :--: | :--: 
+[Build a Modern Computer Part 01](https://www.coursera.org/learn/build-a-computer) | --- | ---
+[Build a Modern Computer Part 02](https://www.coursera.org/learn/nand2tetris2) | --- | ---
+[Introduction to Operating Systems](https://www.coursera.org/specializations/codio-introduction-operating-systems) | --- | ---
 
 ---
 
