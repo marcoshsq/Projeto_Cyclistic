@@ -41,7 +41,6 @@ Courses | Repository if any | Certificate
 [Programming Languages: Part A](https://www.coursera.org/learn/programming-languages) | --- | ---
 [Programming Languages: Part B](https://www.coursera.org/learn/programming-languages-part-b) | --- | ---
 [Programming Languages: Part C](https://www.coursera.org/learn/programming-languages-part-c) | --- | ---
-[Java OOP](https://www.coursera.org/specializations/object-oriented-programming) | --- | ---
 [Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture) | --- | ---
 [The Unix Workbench](https://www.coursera.org/learn/unix) | --- | ---
 
@@ -49,7 +48,9 @@ Courses | Repository if any | Certificate
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--:
+[Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) | --- | ---
 [HTML, CSS, e Javascript](https://www.coursera.org/learn/html-css-javascript-for-web-developers) | --- | ---
+[Java OOP](https://www.coursera.org/specializations/object-oriented-programming) | --- | ---
 
 ### Theory:
 
