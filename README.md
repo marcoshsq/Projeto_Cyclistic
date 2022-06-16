@@ -24,15 +24,22 @@ For this script I'm following the same curriculum as [OSSU](https://github.com/o
 
 ## Content:
 
+### Introduction:
 
+Courses | Repository if any | Certificate
+:--: | :--: | :--: 
+[Python for Everybody](https://www.coursera.org/specializations/python) | [Repository](https://github.com/marcoshsq/Python4Everybody) | [Certificate](https://www.coursera.org/account/accomplishments/specialization/2T9578E32DVB) |
+[CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2022/) | --- | ---
 
-## Core Concepts:
+### Programming:
 
-### Basics of CS and Programming:
-
-### Core Programming:
-
-### Core Systems:
+Courses | Repository if any | Certificate
+:--: | :--: | :--: 
+[Java Programming and Software Engineering Fundamentals](https://www.coursera.org/specializations/java-programming) | --- | ---
+[Programming Languages: Part A](https://www.coursera.org/learn/programming-languages) | --- | ---
+[Programming Languages: Part B](https://www.coursera.org/learn/programming-languages-part-b) | --- | ---
+[Programming Languages: Part C](https://www.coursera.org/learn/programming-languages-part-c) | --- | ---
+[The Unix Workbench](https://www.coursera.org/learn/unix) | --- | ---
 
 ---
 
