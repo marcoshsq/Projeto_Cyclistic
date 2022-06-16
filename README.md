@@ -14,6 +14,23 @@
 
 ##
 
+## Content:
+
+- [About]()
+- [Courses]()
+- [Introduction]()
+- [Programming I]()
+- [Programming II]()
+- [Theory]()
+- [Systems]()
+- [Security]()
+- [Ethics]()
+- [Applications]()
+- [Extras]()
+- [Important Notes]()
+- [References]()
+- []()
+
 ## About: 
 
 This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
@@ -22,7 +39,7 @@ For this script I'm following the same curriculum as [OSSU](https://github.com/o
 
 ##
 
-## Content:
+## Courses:
 
 ### Introduction:
 
@@ -88,7 +105,7 @@ Courses | Repository if any | Certificate
 [Secure Coding Practices](https://www.coursera.org/specializations/secure-coding-practices) | --- | ---
 [Intellectual Property Rights](https://www.coursera.org/specializations/introduction-intellectual-property) | --- | ---
 
-### Applications
+### Applications:
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--: 
@@ -110,6 +127,10 @@ Courses | Repository if any | Certificate
 [Project Management](https://www.coursera.org/professional-certificates/google-project-management) | --- | ---
 
 ---
+
+## Important Notes:
+
+In addition to this computer science roadmap, I also have a curriculum for Data Science, which is my main focus.
 
 ## References.
 
