@@ -32,7 +32,7 @@ Courses | Repository if any | Certificate
 [CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2022/) | --- | ---
 [Introduction to Computer Science and Programming](https://www.coursera.org/specializations/introduction-computer-science-programming) | --- | ---
 
-### Programming:
+### Programming I:
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--:
@@ -41,8 +41,15 @@ Courses | Repository if any | Certificate
 [Programming Languages: Part A](https://www.coursera.org/learn/programming-languages) | --- | ---
 [Programming Languages: Part B](https://www.coursera.org/learn/programming-languages-part-b) | --- | ---
 [Programming Languages: Part C](https://www.coursera.org/learn/programming-languages-part-c) | --- | ---
+[Java OOP](https://www.coursera.org/specializations/object-oriented-programming) | --- | ---
 [Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture) | --- | ---
 [The Unix Workbench](https://www.coursera.org/learn/unix) | --- | ---
+
+### Programming II:
+
+Courses | Repository if any | Certificate
+:-- | :--: | :--:
+[HTML, CSS, e Javascript](https://www.coursera.org/learn/html-css-javascript-for-web-developers) | --- | ---
 
 ### Theory:
 
@@ -61,6 +68,22 @@ Courses | Repository if any | Certificate
 [Build a Modern Computer Part 01](https://www.coursera.org/learn/build-a-computer) | --- | ---
 [Build a Modern Computer Part 02](https://www.coursera.org/learn/nand2tetris2) | --- | ---
 [Introduction to Operating Systems](https://www.coursera.org/specializations/codio-introduction-operating-systems) | --- | ---
+[Computer Architecture](https://www.coursera.org/learn/comparch)
+
+### Applications
+
+Courses | Repository if any | Certificate
+:-- | :--: | :--: 
+[Open Source Software Development, Linux and Git](https://www.coursera.org/specializations/oss-development-linux-git) | --- | ---
+[Web Design for Everybody](https://www.coursera.org/specializations/web-design) | --- | ---
+[Web Applications for Everybody](https://www.coursera.org/specializations/web-applications) | --- | ---
+[IT Support](https://www.coursera.org/professional-certificates/google-it-support) | --- | ---
+
+### Extras:
+
+Courses | Repository if any | Certificate
+:-- | :--: | :--: 
+[Internet History, Technology and Security](https://www.coursera.org/learn/internet-history) | --- | ---
 
 ---
 
