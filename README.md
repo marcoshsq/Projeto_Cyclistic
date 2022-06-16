@@ -70,18 +70,21 @@ Courses | Repository if any | Certificate
 [Build a Modern Computer Part 01](https://www.coursera.org/learn/build-a-computer) | --- | ---
 [Build a Modern Computer Part 02](https://www.coursera.org/learn/nand2tetris2) | --- | ---
 [Introduction to Operating Systems](https://www.coursera.org/specializations/codio-introduction-operating-systems) | --- | ---
-[Computer Architecture](https://www.coursera.org/learn/comparch)
+[Computer Architecture](https://www.coursera.org/learn/comparch) | --- | ---
 
 ### Security:
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--: 
 
-### Databases:
+### Ethics:
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--: 
-
+[Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering) | --- | ---
+[Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy) | --- | ---
+[Secure Coding Practices](https://www.coursera.org/specializations/secure-coding-practices) | --- | ---
+[Intellectual Property Rights](https://www.coursera.org/specializations/introduction-intellectual-property) | --- | ---
 
 ### Applications
 
