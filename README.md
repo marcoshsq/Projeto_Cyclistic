@@ -179,7 +179,9 @@ Courses | Repository if any | Certificate
 
 ### Important Notes:
 
-In addition to this computer science roadmap, I also have a curriculum for Data Science, which is my main focus.
+In addition to this computer science roadmap, I also have a curriculum for Data Science, which is my main focus. Which is where the math courses are.
+
+[Data Science Curriculum](https://github.com/marcoshsq/DataScienceCurriculum)
 
 ### References.
 
