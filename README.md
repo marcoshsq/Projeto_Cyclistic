@@ -77,7 +77,7 @@ Courses | Repository if any | Certificate
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--: 
-[Cybersecurity](https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst)
+[Cybersecurity](https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst) | --- | ---
 
 ### Ethics:
 
@@ -107,6 +107,7 @@ Courses | Repository if any | Certificate
 [Web Design for Everybody](https://www.coursera.org/specializations/web-design) | --- | ---
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | --- | ---
 [Software Testing](https://www.udacity.com/course/software-testing--cs258) | --- | ---
+[Project Management](https://www.coursera.org/professional-certificates/google-project-management) | --- | ---
 
 ---
 
