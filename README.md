@@ -165,7 +165,7 @@ Courses | Repository if any | Certificate
 [Web Applications for Everybody](https://www.coursera.org/specializations/web-applications) | --- | ---
 [IT Support](https://www.coursera.org/professional-certificates/google-it-support) | --- | ---
 [Data Engineering](https://www.coursera.org/professional-certificates/ibm-data-engineer) | --- | ---
-[Clou Computing](https://www.coursera.org/specializations/cloud-computing) | --- | ---
+[Cloud Computing](https://www.coursera.org/specializations/cloud-computing) | --- | ---
 [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction) | --- | ---
 
 <div align="right">
