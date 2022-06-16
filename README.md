@@ -52,6 +52,8 @@ Courses | Repository if any | Certificate
 	
 </div>
 
+##
+
 ### Programming I:
 
 Courses | Repository if any | Certificate
@@ -70,6 +72,8 @@ Courses | Repository if any | Certificate
 	
 </div>
 
+##
+
 ### Programming II:
 
 Courses | Repository if any | Certificate
@@ -84,6 +88,8 @@ Courses | Repository if any | Certificate
 [Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-undergraduate-curriculum)
 	
 </div>
+
+##
 
 ### Theory:
 
@@ -102,6 +108,8 @@ Courses | Repository if any | Certificate
 	
 </div>
 
+##
+
 ### Systems:
 
 Courses | Repository if any | Certificate
@@ -117,6 +125,8 @@ Courses | Repository if any | Certificate
 	
 </div>
 
+##
+
 ### Security:
 
 Courses | Repository if any | Certificate
@@ -128,6 +138,8 @@ Courses | Repository if any | Certificate
 [Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-undergraduate-curriculum)
 	
 </div>
+
+##
 
 ### Ethics:
 
@@ -143,6 +155,8 @@ Courses | Repository if any | Certificate
 [Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-undergraduate-curriculum)
 	
 </div>
+
+##
 
 ### Applications:
 
@@ -160,6 +174,8 @@ Courses | Repository if any | Certificate
 	
 </div>
 
+##
+
 ### Extras:
 
 Courses | Repository if any | Certificate
@@ -176,6 +192,8 @@ Courses | Repository if any | Certificate
 [Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-undergraduate-curriculum)
 	
 </div>
+
+##
 
 ### Important Notes:
 
