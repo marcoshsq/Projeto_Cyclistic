@@ -30,11 +30,13 @@ Courses | Repository if any | Certificate
 :-- | :--: | :--: 
 [Python for Everybody](https://www.coursera.org/specializations/python) | [Repository](https://github.com/marcoshsq/Python4Everybody) | [Certificate](https://www.coursera.org/account/accomplishments/specialization/2T9578E32DVB) |
 [CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2022/) | --- | ---
+[Introduction to Computer Science and Programming](https://www.coursera.org/specializations/introduction-computer-science-programming) | --- | ---
 
 ### Programming:
 
 Courses | Repository if any | Certificate
-:-- | :--: | :--: 
+:-- | :--: | :--:
+[Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java) | --- | ---
 [Java Programming and Software Engineering Fundamentals](https://www.coursera.org/specializations/java-programming) | --- | ---
 [Programming Languages: Part A](https://www.coursera.org/learn/programming-languages) | --- | ---
 [Programming Languages: Part B](https://www.coursera.org/learn/programming-languages-part-b) | --- | ---
@@ -50,6 +52,7 @@ Courses | Repository if any | Certificate
 [Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | --- | ---
 [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | --- | ---
 [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | --- | ---
+[Data Structures & Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) | --- | ---
 
 ### Systems:
 
