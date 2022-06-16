@@ -51,6 +51,7 @@ Courses | Repository if any | Certificate
 [Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) | --- | ---
 [HTML, CSS, e Javascript](https://www.coursera.org/learn/html-css-javascript-for-web-developers) | --- | ---
 [Java OOP](https://www.coursera.org/specializations/object-oriented-programming) | --- | ---
+[Scala](https://www.coursera.org/specializations/scala) | --- | ---
 
 ### Theory:
 
@@ -104,6 +105,8 @@ Courses | Repository if any | Certificate
 [Internet History, Technology and Security](https://www.coursera.org/learn/internet-history) | --- | ---
 [Open Source Software Development, Linux and Git](https://www.coursera.org/specializations/oss-development-linux-git) | --- | ---
 [Web Design for Everybody](https://www.coursera.org/specializations/web-design) | --- | ---
+[Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | --- | ---
+[Software Testing](https://www.udacity.com/course/software-testing--cs258) | --- | ---
 
 ---
 
