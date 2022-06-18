@@ -117,6 +117,7 @@ Courses | Repository if any | Certificate
 :-- | :--: | :--: 
 [Build a Modern Computer Part 01](https://www.coursera.org/learn/build-a-computer) | --- | ---
 [Build a Modern Computer Part 02](https://www.coursera.org/learn/nand2tetris2) | --- | ---
+[Digital Systems: From Logic Gates to Processors](https://www.coursera.org/learn/digital-systems?=) | --- | ---
 [Introduction to Operating Systems](https://www.coursera.org/specializations/codio-introduction-operating-systems) | --- | ---
 [Computer Architecture](https://www.coursera.org/learn/comparch) | --- | ---
 
