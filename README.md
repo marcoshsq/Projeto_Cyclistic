@@ -59,7 +59,7 @@ Courses | Repository if any | Certificate
 Courses | Repository if any | Certificate
 :-- | :--: | :--:
 [Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java) | --- | ---
-[Java Programming and Software Engineering Fundamentals](https://www.coursera.org/specializations/java-programming) | --- | ---
+[Introduction to Programming with Python and Java](https://www.coursera.org/specializations/programming-python-java) | --- | ---
 [Programming Languages: Part A](https://www.coursera.org/learn/programming-languages) | --- | ---
 [Programming Languages: Part B](https://www.coursera.org/learn/programming-languages-part-b) | --- | ---
 [Programming Languages: Part C](https://www.coursera.org/learn/programming-languages-part-c) | --- | ---
@@ -80,6 +80,7 @@ Courses | Repository if any | Certificate
 Courses | Repository if any | Certificate
 :-- | :--: | :--:
 [Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) | --- | ---
+[Java Programming and Software Engineering Fundamentals](https://www.coursera.org/specializations/java-programming) | --- | ---
 [HTML, CSS, e Javascript](https://www.coursera.org/learn/html-css-javascript-for-web-developers) | --- | ---
 [Java OOP](https://www.coursera.org/specializations/object-oriented-programming) | --- | ---
 [Scala](https://www.coursera.org/specializations/scala) | --- | ---
