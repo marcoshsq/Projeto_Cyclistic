@@ -121,6 +121,7 @@ Courses | Repository if any | Certificate
 [Digital Systems: From Logic Gates to Processors](https://www.coursera.org/learn/digital-systems?=) | --- | ---
 [Introduction to Operating Systems](https://www.coursera.org/specializations/codio-introduction-operating-systems) | --- | ---
 [Computer Architecture](https://www.coursera.org/learn/comparch) | --- | ---
+[GPU Programming](https://www.coursera.org/specializations/gpu-programming) | --- | ---
 
 <div align="right">
 	
