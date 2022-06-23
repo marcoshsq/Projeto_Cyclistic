@@ -41,7 +41,7 @@ Courses | Repository if any | Certificate
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-undergraduate-curriculum)
+[Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-curriculum)
 	
 </div>
 
@@ -61,7 +61,7 @@ Courses | Repository if any | Certificate
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-undergraduate-curriculum)
+[Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-curriculum)
 	
 </div>
 
@@ -79,7 +79,7 @@ Courses | Repository if any | Certificate
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-undergraduate-curriculum)
+[Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-curriculum)
 	
 </div>
 
@@ -97,7 +97,7 @@ Courses | Repository if any | Certificate
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-undergraduate-curriculum)
+[Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-curriculum)
 	
 </div>
 
@@ -116,7 +116,7 @@ Courses | Repository if any | Certificate
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-undergraduate-curriculum)
+[Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-curriculum)
 	
 </div>
 
@@ -130,7 +130,7 @@ Courses | Repository if any | Certificate
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-undergraduate-curriculum)
+[Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-curriculum)
 	
 </div>
 
@@ -147,7 +147,7 @@ Courses | Repository if any | Certificate
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-undergraduate-curriculum)
+[Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-curriculum)
 	
 </div>
 
@@ -164,7 +164,7 @@ Courses | Repository if any | Certificate
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-undergraduate-curriculum)
+[Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-curriculum)
 	
 </div>
 
@@ -181,7 +181,7 @@ Courses | Repository if any | Certificate
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-undergraduate-curriculum)
+[Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-curriculum)
 	
 </div>
 
@@ -202,6 +202,6 @@ To build this curriculum, I used these sources:
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-undergraduate-curriculum)
+[Go to the top](https://github.com/marcoshsq/ComputerScienceCurriculum#computer-science-curriculum)
 	
 </div>
