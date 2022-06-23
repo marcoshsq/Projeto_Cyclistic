@@ -88,7 +88,6 @@ Courses | Repository if any | Certificate
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--: 
-[Computational Thinking with Beginning C Programming](https://www.coursera.org/specializations/computational-thinking-c-programming) | --- | ---
 [Algorithms](https://www.coursera.org/specializations/algorithms) | --- | ---
 [Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | --- | ---
 [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | --- | ---
