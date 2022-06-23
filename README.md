@@ -73,7 +73,6 @@ Courses | Repository if any | Certificate
 :-- | :--: | :--:
 [Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) | --- | ---
 [Java Programming and Software Engineering Fundamentals](https://www.coursera.org/specializations/java-programming) | --- | ---
-[Scala](https://www.coursera.org/specializations/scala) | --- | ---
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | --- | ---
 [Software Testing](https://www.udacity.com/course/software-testing--cs258) | --- | ---
 
