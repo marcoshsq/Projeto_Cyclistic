@@ -43,7 +43,6 @@ For this script I'm following the same curriculum as [OSSU](https://github.com/o
 Courses | Repository if any | Certificate
 :-- | :--: | :--: 
 [CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2022/) | --- | ---
-[Introduction to Computer Science and Programming](https://www.coursera.org/specializations/introduction-computer-science-programming) | --- | ---
 [Introduction to Programming with Python and Java](https://www.coursera.org/specializations/programming-python-java) | --- | ---
 [Python for Everybody](https://www.coursera.org/specializations/python) | [Repository](https://github.com/marcoshsq/Python4Everybody) | [Certificate](https://www.coursera.org/account/accomplishments/specialization/2T9578E32DVB)
 
@@ -81,9 +80,9 @@ Courses | Repository if any | Certificate
 :-- | :--: | :--:
 [Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) | --- | ---
 [Java Programming and Software Engineering Fundamentals](https://www.coursera.org/specializations/java-programming) | --- | ---
-[HTML, CSS, e Javascript](https://www.coursera.org/learn/html-css-javascript-for-web-developers) | --- | ---
-[Java OOP](https://www.coursera.org/specializations/object-oriented-programming) | --- | ---
 [Scala](https://www.coursera.org/specializations/scala) | --- | ---
+[Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | --- | ---
+[Software Testing](https://www.udacity.com/course/software-testing--cs258) | --- | ---
 
 <div align="right">
 	
@@ -102,7 +101,6 @@ Courses | Repository if any | Certificate
 [Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | --- | ---
 [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | --- | ---
 [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | --- | ---
-[Data Structures & Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) | --- | ---
 
 <div align="right">
 	
@@ -167,7 +165,6 @@ Courses | Repository if any | Certificate
 Courses | Repository if any | Certificate
 :-- | :--: | :--: 
 [Web Applications for Everybody](https://www.coursera.org/specializations/web-applications) | --- | ---
-[Back-End Development](https://www.coursera.org/professional-certificates/meta-back-end-developer) | --- | ---
 [Data Engineering](https://www.coursera.org/professional-certificates/ibm-data-engineer) | --- | ---
 [Cloud Computing](https://www.coursera.org/specializations/cloud-computing) | --- | ---
 [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction) | --- | ---
@@ -187,8 +184,6 @@ Courses | Repository if any | Certificate
 [Internet History, Technology and Security](https://www.coursera.org/learn/internet-history) | --- | ---
 [Open Source Software Development, Linux and Git](https://www.coursera.org/specializations/oss-development-linux-git) | --- | ---
 [Web Design for Everybody](https://www.coursera.org/specializations/web-design) | --- | ---
-[Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | --- | ---
-[Software Testing](https://www.udacity.com/course/software-testing--cs258) | --- | ---
 [Project Management](https://www.coursera.org/professional-certificates/google-project-management) | --- | ---
 
 <div align="right">
