@@ -44,6 +44,7 @@ Courses | Repository if any | Certificate
 :-- | :--: | :--: 
 [CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2022/) | --- | ---
 [Introduction to Computer Science and Programming](https://www.coursera.org/specializations/introduction-computer-science-programming) | --- | ---
+[Introduction to Programming with Python and Java](https://www.coursera.org/specializations/programming-python-java) | --- | ---
 [Python for Everybody](https://www.coursera.org/specializations/python) | [Repository](https://github.com/marcoshsq/Python4Everybody) | [Certificate](https://www.coursera.org/account/accomplishments/specialization/2T9578E32DVB)
 
 <div align="right">
@@ -59,13 +60,12 @@ Courses | Repository if any | Certificate
 Courses | Repository if any | Certificate
 :-- | :--: | :--:
 [Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java) | --- | ---
-[Introduction to Programming with Python and Java](https://www.coursera.org/specializations/programming-python-java) | --- | ---
 [Programming Languages: Part A](https://www.coursera.org/learn/programming-languages) | --- | ---
 [Programming Languages: Part B](https://www.coursera.org/learn/programming-languages-part-b) | --- | ---
 [Programming Languages: Part C](https://www.coursera.org/learn/programming-languages-part-c) | --- | ---
 [Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture) | --- | ---
-[The Unix Workbench](https://www.coursera.org/learn/unix) | --- | ---
 [Software Testing and Automation](https://www.coursera.org/specializations/software-testing-automation) | --- | ---
+[The Unix Workbench](https://www.coursera.org/learn/unix) | --- | ---
 
 <div align="right">
 	
@@ -98,10 +98,10 @@ Courses | Repository if any | Certificate
 Courses | Repository if any | Certificate
 :-- | :--: | :--: 
 [Computational Thinking with Beginning C Programming](https://www.coursera.org/specializations/computational-thinking-c-programming) | --- | ---
+[Algorithms](https://www.coursera.org/specializations/algorithms) | --- | ---
 [Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | --- | ---
 [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | --- | ---
 [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | --- | ---
-[Algorithms](https://www.coursera.org/specializations/algorithms) | --- | ---
 [Data Structures & Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) | --- | ---
 
 <div align="right">
