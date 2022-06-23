@@ -42,9 +42,9 @@ For this script I'm following the same curriculum as [OSSU](https://github.com/o
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--: 
-[Python for Everybody](https://www.coursera.org/specializations/python) | [Repository](https://github.com/marcoshsq/Python4Everybody) | [Certificate](https://www.coursera.org/account/accomplishments/specialization/2T9578E32DVB) |
 [CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2022/) | --- | ---
 [Introduction to Computer Science and Programming](https://www.coursera.org/specializations/introduction-computer-science-programming) | --- | ---
+[Python for Everybody](https://www.coursera.org/specializations/python) | [Repository](https://github.com/marcoshsq/Python4Everybody) | [Certificate](https://www.coursera.org/account/accomplishments/specialization/2T9578E32DVB)
 
 <div align="right">
 	
