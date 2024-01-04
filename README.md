@@ -3,7 +3,7 @@
     <img src="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/blob/main/Template/Bikes.png" alt="Developer Roadmap" width="120" height="">
   </a>
 </p>
-  <h2 align="center">Como um serviço de "Bikesharing" pode alavancar seu sucesso?</h2>
+  <h2 align="center">Como uma empresa de "Bikesharing" pode aumentar seus assinantes?</h2>
 </div>
 
 ## Cenário
