@@ -6,8 +6,6 @@
   <h2 align="center">Como um serviço de "Bikesharing" pode alavancar seu sucesso?</h2>
 </div>
 
-# Projeto de Análise de Dados - Cyclistic Bike-Share
-
 ## Cenário
 Você é um analista de dados júnior na equipe de análise de marketing da Cyclistic, uma empresa de compartilhamento de bicicletas em Chicago. A diretora de marketing acredita que o sucesso futuro da empresa depende da maximização do número de assinaturas anuais. Sua equipe deseja entender as diferenças entre os usuários casuais e os membros assinantes anuais e como eles usam as bicicletas da Cyclistic de maneira diferente para desenvolver uma nova estratégia de marketing.
 
