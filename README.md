@@ -6,6 +6,24 @@
   <h2 align="center">Como uma empresa de "Bikesharing" pode aumentar seus assinantes?</h2>
 </div>
 
+### Introdução
+
+Esse é um dos estudos de caso (Capstone Project) desenvolvido para conclusão da especialização [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) lecionado pelo Google através da plataforma Coursera.
+
+Durante a especialização são oferecidos duas propostas de projetos para conclusão do curso. Esse repositório contém o primeiro projeto, análise de dados para estratégia de marketing da empresa Cyclistic. 
+
+### Como esse repositório está estruturado?
+
+### Índice
+
+- []()
+- []()
+- []()
+- []()
+- []()
+
+##
+
 ## Cenário
 Você é um analista de dados júnior na equipe de análise de marketing da Cyclistic, uma empresa de compartilhamento de bicicletas em Chicago. A diretora de marketing acredita que o sucesso futuro da empresa depende da maximização do número de assinaturas anuais. Sua equipe deseja entender as diferenças entre os usuários casuais e os membros assinantes anuais e como eles usam as bicicletas da Cyclistic de maneira diferente para desenvolver uma nova estratégia de marketing.
 
@@ -25,3 +43,4 @@ A diretora de marketing, Lily Moreno, acredita que maximizar o número de membro
 2. Por que os ciclistas casuais comprariam associações anuais da Cyclistic?
 3. Como a Cyclistic pode usar a mídia digital para influenciar ciclistas casuais a se tornarem membros?
 
+##
