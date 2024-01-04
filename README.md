@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/marcoshsq/CS50x">
+  <a href="https://github.com/marcoshsq/Projeto_Cyclistic">
     <img src="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/blob/main/Template/Bikes.png" alt="Developer Roadmap" width="120" height="">
   </a>
 </p>
