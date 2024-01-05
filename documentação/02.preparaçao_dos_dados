@@ -1,0 +1,66 @@
+# Relatório de praparação dos dados
+
+## Questões Guia:
+
+### 1. Onde seus dados estão localizados?
+- Os dados brutos estão localizados no site "[divvy-tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html)" disponível para download, em arquivos no formato .csv. Para esse projeto eu trabalhei com os dados referentes ao ano de 2019, divididos em quatro arquivos referentes aos quatro trimestre do ano Q1,Q2, Q3 e Q4.
+
+### 2. Como os dados são organizados?
+- Os dados estão organizados em formato tabular dentro de uma planilha.
+
+| Nome da coluna | Descrição |
+| --------------- | -------------------------------------------------------- |
+| --------------- | ---------------------------------------------- |
+| trip_id         | Identificador de uma viagem única                    |
+| start_time      | Hora do início da viagem                        |
+| end_time        | Hora do fim da viagem                          |
+| bikeid          | Identificador da bicicleta utilizada na viagem        |
+| tripduration    | Duração da viagem (em alguma unidade, por exemplo, minutos) |
+| from_station_id | ID da estação de partida |
+| from_station_name | Nome da estação de partida |
+| to_station_id | ID da estação final |
+| to_station_name | Nome da estação final |
+| usertype        | Tipo de usuário (por exemplo, membro, casual)                |
+| gender          | Sexo do usuário                            |
+| birthyear       | Ano de nascimento do usuário                          |
+
+
+### 3. Há problemas de parcialidade ou credibilidade nesses dados? Seus dados são ROCCC?
+- Não parece haver um viés evidente, mas será necessária uma análise mais aprofundada para avaliar a credibilidade.
+
+ROCCC (Relevância, Originalidade, Abrangência, Moeda e Contexto) são descritos abaixo:
+
+- **Relevância:** Os dados incluem todas as informações necessárias para analisar como os membros anuais e os ciclistas casuais usam as bicicletas ciclísticas de maneira diferente. Parece sólido e limpo, aumentando sua relevância para as questões de negócios.
+
+- **Originalidade:** Embora proveniente de um conjunto de dados público e parte de um projeto de curso, para esta análise é razoável tratá-lo como original, considerando sua relevância para o caso específico.
+
+- **Compreensividade:** Os dados abrangem todos os aspectos relevantes, incluindo detalhes da viagem, tipos de usuários e informações da estação, tornando-os abrangentes para a análise.
+  
+- **Moeda:** Os dados de 2023 garantem que os insights obtidos reflitam os padrões atuais de uso de bicicletas.
+  
+- **Contexto:** Embora a confirmação do contexto mais amplo da coleta de dados seja um desafio, as informações fornecidas descrevem as restrições de disponibilidade, licenciamento e privacidade. A transparência sobre esta limitação é crucial para a interpretação dos resultados.
+
+Ao avaliar os dados em relação aos critérios ROCCC, parece ser um conjunto de dados adequado e relevante para responder às questões da equipa de marketing, com as considerações necessárias para a transparência na interpretação.
+
+
+### 4. Como você está abordando o licenciamento, a privacidade, a segurança e a acessibilidade?
+- Os dados são fornecidos pela Motivate International Inc. sob uma licença específica.
+- Privacidade: Nenhuma informação de identificação pessoal é usada; é proibido conectar compras de passes a números de cartão de crédito.
+- Segurança: Os dados são armazenados localmente e seguem as medidas de segurança do projeto.
+- Acessibilidade: Garantir que os dados sejam acessíveis apenas aos membros autorizados do projeto.
+
+### 5. Como você verificou a integridade dos dados?
+- Verificou a integridade dos dados, verificando a consistência, integridade e exatidão.
+- Abordou valores ausentes ou anômalos durante o processo de classificação e filtragem.
+
+### 6. Como isso ajuda você a responder sua pergunta?
+- Os dados fornecem detalhes sobre passeios de bicicleta, tipos de usuários e características do passeio, permitindo-nos analisar como os membros anuais e os ciclistas casuais usam as bicicletas ciclísticas de maneira diferente.
+
+### 7. Há algum problema com os dados?
+- Nenhum problema grave foi detectado durante a revisão inicial. Quaisquer problemas potenciais serão abordados durante a fase de análise.
+
+### Informações adicionais:
+- **Fonte de dados:** Dados históricos de viagens ciclísticas disponibilizados pela Motivate International Inc.
+- **Licença:** Os dados são fornecidos sob uma licença específica da Motivate International Inc.
+- **Privacidade de dados:** Devido a questões de privacidade, é proibido vincular compras de passes a números de cartão de crédito ou identificar informações de identificação pessoal.
+- **Escopo:** Os dados permitem a análise de como diferentes tipos de clientes estão usando bicicletas ciclísticas.
