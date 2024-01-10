@@ -44,3 +44,17 @@ A diretora de marketing, Lily Moreno, acredita que maximizar o número de membro
 3. Como a Cyclistic pode usar a mídia digital para influenciar ciclistas casuais a se tornarem membros?
 
 ##
+
+Como os membros anuais e os ciclistas casuais usam as bicicletas ciclísticas de maneira diferente?
+
+Com base na análise, os membros anuais parecem ter padrões de uso mais estáveis ao longo do dia, indicando possíveis deslocamentos regulares, enquanto ciclistas casuais mostram variações mais acentuadas, sugerindo um uso mais flexível e recreativo.
+Além disso, a análise das estações iniciais e destinos populares pode indicar preferências distintas, com membros anuais talvez focando em rotas específicas de casa para o trabalho, e ciclistas casuais buscando áreas turísticas ou de lazer.
+Por que os ciclistas casuais comprariam assinaturas anuais do Cyclistic?
+
+A empresa pode desenvolver estratégias para atrair ciclistas casuais para a assinatura anual oferecendo benefícios exclusivos, como descontos significativos para períodos mais longos de assinatura.
+Promoções sazonais, como descontos durante os meses de maior demanda, podem incentivar a conversão de ciclistas casuais em assinantes anuais, proporcionando economia a longo prazo.
+Como a Cyclistic pode usar a mídia digital para influenciar os ciclistas casuais a se tornarem membros?
+
+Campanhas digitais podem destacar os benefícios exclusivos para assinantes, como acesso prioritário a bicicletas em períodos de alta demanda e descontos em serviços parceiros.
+Conteúdo persuasivo, como depoimentos de usuários destacando as vantagens da assinatura anual, pode ser compartilhado nas redes sociais e em outros canais digitais.
+Ofertas exclusivas, como períodos de teste gratuitos para assinaturas anuais, podem ser promovidas online para atrair ciclistas casuais.
