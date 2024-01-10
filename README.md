@@ -30,7 +30,7 @@ O objetivo é maximizar o número de membros anuais, convertendo ciclistas casua
 
 ##
 
-## Resultados da Análise
+### Resultados da Análise
 
 ### Como os membros anuais e os ciclistas casuais usam as bicicletas ciclísticas de maneira diferente?
 
