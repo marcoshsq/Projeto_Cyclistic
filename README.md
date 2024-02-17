@@ -32,14 +32,14 @@ O objetivo é maximizar o número de membros anuais, convertendo ciclistas casua
 
 ### Resultados da Análise
 
-### Como os membros anuais e os ciclistas casuais usam as bicicletas ciclísticas de maneira diferente?
+#### Como os membros anuais e os ciclistas casuais usam as bicicletas ciclísticas de maneira diferente?
 
 A análise indica que membros anuais têm padrões de uso mais estáveis, sugerindo deslocamentos regulares, enquanto ciclistas casuais mostram variações mais acentuadas, indicando uso mais flexível e recreativo. As preferências de estações iniciais e destinos diferenciados sugerem necessidades distintas.
 
-### Por que os ciclistas casuais comprariam assinaturas anuais do Cyclistic?
+#### Por que os ciclistas casuais comprariam assinaturas anuais do Cyclistic?
 
 Estratégias para atrair ciclistas casuais para a assinatura anual incluem oferecer benefícios exclusivos, descontos significativos para períodos mais longos e promoções sazonais para incentivar a conversão.
 
-### Como a Cyclistic pode usar a mídia digital para influenciar os ciclistas casuais a se tornarem membros?
+#### Como a Cyclistic pode usar a mídia digital para influenciar os ciclistas casuais a se tornarem membros?
 
 Campanhas digitais destacando benefícios exclusivos, conteúdo persuasivo compartilhado nas redes sociais e ofertas exclusivas, como períodos de teste gratuito, podem ser eficazes para atrair ciclistas casuais.
